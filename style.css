@@ -1,0 +1,25 @@
+#title{
+    text-align: center;
+    margin-top: 10px;
+}
+
+h1 > span{
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 0px 5px 0px 5px;
+}
+
+#body{
+    margin: 10px 0px 10px 0px;
+}
+
+#date-align{
+    text-align: end;
+}
+
+.card-title > span{
+    /* margin-left: 48%; */
+    display: flex;
+    justify-content: flex-end;
+}
